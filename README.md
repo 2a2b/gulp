@@ -18,3 +18,10 @@ gulp.task('default', function() {
 
 run 
 `$ gulp`
+
+```
+$ gulp
+[14:08:47] Using gulpfile ~/2a2b_gulp/gulpfile.js
+[14:08:47] Starting 'default'...
+[14:08:47] Finished 'default' after 60 μs
+```
